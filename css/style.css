@@ -2,3 +2,7 @@
     height: 450px;
     width: 250px;
 }
+
+.technologies-item {
+    height: 325px !important;
+}
